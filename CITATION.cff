@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+title: >-
+  Data and figure scripts: Mobile resistance cassettes across
+  Acinetobacter baumannii lineages
+message: >-
+  If you use this repository, please cite it using the metadata below.
+  The DOI is added after the archived release is created on Zenodo.
+type: dataset
+authors:
+  - family-names: Satyam
+    given-names: Satyam
+license: CC-BY-4.0
+# After creating the Zenodo release, add the DOI here, for example:
+# doi: 10.5281/zenodo.XXXXXXX
+# version: v1.0.0
+# date-released: "2026-XX-XX"

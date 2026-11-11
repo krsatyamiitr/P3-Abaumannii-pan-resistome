@@ -1,0 +1,7 @@
+# Python package versions used to generate the figures.
+# Any reasonably recent version of these packages should work;
+# exact versions are pinned for reproducibility.
+matplotlib==3.11.2
+pandas==3.0.5
+numpy==2.5.3
+biopython==1.88
