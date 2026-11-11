@@ -101,18 +101,15 @@ reference databases used, with the versions recorded in the manuscript Methods:
 
 ## Citation
 
-The citation, the published-article reference, and the Zenodo DOI are added after
-submission, because the DOI does not exist until the archived release is created. The
-intended sequence is:
+If you use this repository, please cite the archived release:
 
-1. Push this repository to GitHub.
-2. Link the GitHub repository to Zenodo and create a release; Zenodo then mints a DOI.
-3. Add the DOI and the full citation below, and record the same DOI in the manuscript
-   Data Availability section.
+> Satyam, S. *Data and figure scripts: Mobile resistance cassettes across
+> Acinetobacter baumannii lineages* [Data set]. Zenodo.
+> https://doi.org/10.5281/zenodo.24133501
 
+**Archived release (Zenodo):** https://doi.org/10.5281/zenodo.24133501
+**Code repository:** https://github.com/krsatyamiitr/P3-Abaumannii-pan-resistome
 **Article:** to be added on acceptance.
-**Archived release (Zenodo):** DOI to be added on release.
-**Code repository:** GitHub URL to be added once the repository is created.
 
 ## License
 

@@ -10,7 +10,7 @@ authors:
   - family-names: Satyam
     given-names: Satyam
 license: CC-BY-4.0
-# After creating the Zenodo release, add the DOI here, for example:
-# doi: 10.5281/zenodo.XXXXXXX
-# version: v1.0.0
-# date-released: "2026-XX-XX"
+doi: 10.5281/zenodo.24133501
+version: v1.0.0
+date-released: "2026-11-11"
+repository-code: "https://github.com/krsatyamiitr/P3-Abaumannii-pan-resistome"
